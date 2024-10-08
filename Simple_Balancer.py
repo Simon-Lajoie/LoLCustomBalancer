@@ -12,8 +12,8 @@ players_data = [
     {"name": "Meyst", "rank": 5, "role": "Fill"},
     {"name": "Wazzaii", "rank": 4, "role": "Adc"},
     {"name": "Classiq", "rank": 7, "role": "Fill"},
-    {"name": "Silvia", "rank": 3, "role": "Top"},
-    {"name": "KingNeptun3", "rank": 3, "role": "Top"},
+    {"name": "Silvia", "rank": 5, "role": "Top"},
+    {"name": "Kingneptun3", "rank": 3, "role": "Top"},
     {"name": "Shrektangle", "rank": 9, "role": "Fill"},
     {"name": "Kyupo", "rank": 2, "role": "Support"},
     {"name": "Settupss", "rank": 7, "role": "Support"},
@@ -21,15 +21,38 @@ players_data = [
     {"name": "Tiny Cena", "rank": 3, "role": "Support"},
     {"name": "Ramza", "rank": 8, "role": "Fill"},
     {"name": "Zotto", "rank": 9, "role": "Jungle"},
-    {"name": "Gourish", "rank": 9, "role": "Mid"},
-    {"name": "Wallaby", "rank": 6, "role": "Mid"},
-    {"name": "Flames", "rank": 5, "role": "Support"}
+    {"name": "Gourish", "rank": 9, "role": "Fill"},
+    {"name": "Wallaby", "rank": 7, "role": "Mid"},
+    {"name": "Flames", "rank": 5, "role": "Support"},
+    {"name": "Maa San", "rank": 5, "role": "Support"},
+    {"name": "Cleenslate", "rank": 4, "role": "Mid"},
+    {"name": "Nasir", "rank": 8, "role": "Fill"},
+    {"name": "Limi", "rank": 6, "role": "Mid"},
+    {"name": "Oogli", "rank": 7, "role": "Mid"},
+    {"name": "Drzoan", "rank": 7, "role": "Support"},
+    {"name": "Slimelvl1", "rank": 6, "role": "Support"},
+    {"name": "Rogier", "rank": 6, "role": "Support"},
+    {"name": "I SETT YOU UP", "rank": 6, "role": "Top"},
+    {"name": "Aimishi", "rank": 6, "role": "Jungle"},
+    {"name": "Sehnbon", "rank": 5, "role": "Top"},
+    {"name": "Smoking Hookah", "rank": 6, "role": "Fill"},
+    {"name": "Mnesia", "rank": 5, "role": "Jungle"},
+    {"name": "Aimishi", "rank": 6, "role": "Fill"},
+    {"name": "Nappy", "rank": 9, "role": "Top"},
+    {"name": "Untuchable", "rank": 5, "role": "Adc"},
+    {"name": "Kyupo", "rank": 2, "role": "Support"},
+    {"name": "Silva b", "rank": 2, "role": "Support"},
+    {"name": "Feenz", "rank": 4, "role": "Adc"},
+    {"name": "NotJustPlatonic", "rank": 7, "role": "Fill"},
+    {"name": "Gabyumi", "rank": 3, "role": "Support"},
+    {"name": "GumGumBlast", "rank": 2, "role": "Adc"},
+    {"name": "Tsaritsa", "rank": 2, "role": "Support"}
 ]
 
 # Define current players
 players = [
-    "SirMightyBacon", "Z3Sleeper", "Meyst", "Wazzaii", "Gourish",
-    "Wallaby", "KingNeptun3", "Shrektangle", "Kyupo", "Settupss"
+    "SirMightyBacon", "Settupss", "Wallaby", "Gourish", "Sehnbon",
+    "Shrektangle", "Maa San", "Rogier", "Tsaritsa", "Z3Sleeper"
 ]
 
 current_players_data = []
