@@ -31,7 +31,7 @@ players_data = [
     {"name": "Oogli", "rank": 7, "role": "Mid"},
     {"name": "Drzoan", "rank": 7, "role": "Support"},
     {"name": "Slimelvl1", "rank": 6, "role": "Support"},
-    {"name": "Rogier", "rank": 6, "role": "Support"},
+    {"name": "Rogier", "rank": 7, "role": "Support"},
     {"name": "I SETT YOU UP", "rank": 6, "role": "Top"},
     {"name": "Aimishi", "rank": 6, "role": "Jungle"},
     {"name": "Sehnbon", "rank": 5, "role": "Top"},
@@ -46,13 +46,15 @@ players_data = [
     {"name": "NotJustPlatonic", "rank": 7, "role": "Fill"},
     {"name": "Gabyumi", "rank": 3, "role": "Support"},
     {"name": "GumGumBlast", "rank": 2, "role": "Adc"},
-    {"name": "Tsaritsa", "rank": 2, "role": "Support"}
+    {"name": "Tsaritsa", "rank": 2, "role": "Support"},
+    {"name": "Vroom", "rank": 6, "role": "Top"},
+    {"name": "SkrtSkrt", "rank": 4, "role": "Support"}
 ]
 
 # Define current players
 players = [
-    "SirMightyBacon", "Settupss", "Wallaby", "Gourish", "Sehnbon",
-    "Shrektangle", "Maa San", "Rogier", "Tsaritsa", "Z3Sleeper"
+    "SirMightyBacon", "Tsaritsa", "Wazzaii", "Settupss", "Vroom",
+    "Shrektangle", "Smoking Hookah", "Ramza", "SkrtSkrt", "Wallaby"
 ]
 
 current_players_data = []
